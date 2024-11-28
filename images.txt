@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 odoo:18.0
 postgres
+olbat/cupsd
