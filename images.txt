@@ -7,3 +7,4 @@ xhofe/alist:latest
 odoo:18.0
 postgres
 olbat/cupsd
+dpage/pgadmin4
