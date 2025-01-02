@@ -9,3 +9,4 @@ postgres
 olbat/cupsd
 dpage/pgadmin4
 odoo
+postgres:16
