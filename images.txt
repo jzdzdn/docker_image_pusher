@@ -10,3 +10,4 @@ olbat/cupsd
 dpage/pgadmin4
 odoo
 postgres:16
+ubuntu:22.04
